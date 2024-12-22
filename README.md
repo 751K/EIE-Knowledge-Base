@@ -7,3 +7,7 @@
 ## Introduction
 
 This repository is maintained by a student of the Electronic and Information Engineering program at China University of Geosciences (Beijing). It contains various study documents accumulated during the undergraduate years, provided for reference only.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](LICENSE) file for more details.
