@@ -17,3 +17,7 @@ Welcome to contribute to this project! If you have any learning materials or sug
 本项目采用 **知识共享署名-非商业性使用 4.0 国际许可协议** 进行许可。有关更多详细信息，请参阅 [LICENSE](LICENSE) 文件。
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the [LICENSE](LICENSE) file for more details.
+
+## 其他 Else
+走过路过点一颗**star**哇！
+If you think this project play a postive role in somewhere, I am looking forward to receiveing a **star**!
